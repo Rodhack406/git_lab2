@@ -1,1 +1,1 @@
-team lead:ephetred ndhlovu
+Team Lead: Ephetred Ndhlovu
