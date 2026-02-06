@@ -1,1 +1,5 @@
-Git learning fundamentals by practicing
+
+We are learning git. via making practices
+
+
+
