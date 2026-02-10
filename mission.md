@@ -1,1 +1,1 @@
-Git learning fundamentals
+Git learning fundamentals by practicing
