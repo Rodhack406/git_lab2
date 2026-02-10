@@ -1,1 +1,1 @@
-Learning git by practicing with contributors
+We are learning git. via making practices
