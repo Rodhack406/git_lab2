@@ -1,1 +1,1 @@
-TEAM LEAD: KALEBALIKA CHILESHE
+Team Lead: Kalebalika Chileshe
